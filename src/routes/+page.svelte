@@ -1,5 +1,5 @@
 <script lang="ts">
-	import anime from 'animejs/lib/anime.es.js';
+	import anime from 'animejs/lib/anime.js';
 	import { browser } from '$app/environment';
 	import About from './About.svelte';
 	import Skills from './Skills.svelte';
