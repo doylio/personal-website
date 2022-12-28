@@ -36,6 +36,7 @@
 	"type": "module",
 	"dependencies": {
 		"@sendgrid/mail": "^7.7.0",
+		"@vercel/analytics": "^0.1.6",
 		"@zerodevx/svelte-toast": "^1.0.0-rc.1",
 		"dotenv": "^16.0.3"
 	}
