@@ -7,8 +7,8 @@
 	<p>
 		Hi! I'm Shawn, a full stack developer from Canada! 🇨🇦 I love working at startups and building
 		products that people love. I'm currently working at{' '}<a
-			href="https://mycelium.xyz"
-			target="__blank">Mycelium</a
+			href="https://www.tryplantiful.com/"
+			target="__blank">Plantiful</a
 		>
 	</p>
 </div>
